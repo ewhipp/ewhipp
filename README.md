@@ -1,6 +1,6 @@
 ### Greetings 👋
 - 🔭 I’m currently working on expanding freelancer's digital freedom & self-reliance
-- 🌱 I’m currently learning ReasonML, ArgoCD, and Go.
+- 🌱 I’m currently learning Vue, soft real-time web programming, and Go.
 - 💬 Ask me about TDD and DDD
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play guitar, drums, and piano.
