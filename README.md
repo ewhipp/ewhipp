@@ -1,8 +1,8 @@
 ### Greetings 👋
-- 🔭 I’m currently working on expanding freelancer's digital freedom & self-reliance
+- 🔭 I’m currently working on expanding the capability to maintain relationship's on the internet.
 - 🌱 I’m currently learning Vue, soft real-time web programming, and Go.
-- 💬 Ask me about TDD and DDD
-- 😄 Pronouns: He/Him
+- 💬 Ask me about TDD and DDD.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I play guitar, drums, and piano.
 
 <!--
