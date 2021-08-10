@@ -1,6 +1,6 @@
 ### Greetings 👋
-- 🔭 I’m currently working on expanding the capability to maintain relationship's on the internet.
-- 🌱 I’m currently learning Vue, soft real-time web programming, and Go.
+- 🔭 I’m currently working on broadening people's perspective on economics.
+- 🌱 I’m currently learning Unity, Blender, and game design.
 - 💬 Ask me about TDD and DDD.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I play guitar, drums, and piano.
