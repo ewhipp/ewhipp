@@ -1,6 +1,6 @@
 ### Greetings 👋
 - 🔭 I’m currently working on broadening people's perspective on economics.
-- 🌱 I’m currently learning Unity, Blender, and game design.
+- 🌱 I’m currently learning Rescript.
 - 💬 Ask me about TDD and DDD.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I play guitar, drums, and piano.
