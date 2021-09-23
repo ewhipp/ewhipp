@@ -1,5 +1,4 @@
 ### Greetings 👋
-- 🔭 I’m currently working on broadening people's perspective on economics.
 - 🌱 I’m currently learning Rescript.
 - 💬 Ask me about TDD and DDD.
 - 😄 Pronouns: He/Him.
