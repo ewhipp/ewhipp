@@ -1,5 +1,5 @@
 ### Greetings 👋
-- 🌱 I’m currently learning Rescript.
+- 🌱 I’m currently learning Go.
 - 💬 Ask me about TDD and DDD.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I play guitar, drums, and piano.
