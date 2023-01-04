@@ -1,5 +1,5 @@
 ### Greetings 👋
-- 🌱 I’m currently learning Unity & Game Development.
+- 🌱 I’m currently learning F#
 - 💬 Ask me about TDD and DDD.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I play guitar, drums, and piano.
