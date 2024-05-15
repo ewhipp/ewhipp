@@ -1,5 +1,5 @@
 ### Greetings 👋
-- 🌱 I’m currently learning F#
+- 🌱 I’m currently learning Terraform and Jenkins administration
 - 💬 Ask me about TDD and DDD.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I play guitar, drums, and piano.
